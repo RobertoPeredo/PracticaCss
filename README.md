@@ -6,3 +6,6 @@ La practica consiste en replicar el siguiente diseño [DISEÑO](https://github.c
 
 Link de la página desplegada en Github pages
 --->>> [LINK](https://robertoperedo.github.io/PracticaCss/)
+
+El sitio desplegado luce de la siguiente forma:
+![Captura_SitioDesplegado](https://user-images.githubusercontent.com/99369122/159836306-e21b8e32-158f-43d5-81e6-2987491df91d.png)
